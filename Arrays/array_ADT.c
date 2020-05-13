@@ -1,3 +1,8 @@
+//append
+//display
+
+
+
 #include <stdio.h>
 #include<stdlib.h>
 struct Array
